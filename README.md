@@ -33,7 +33,7 @@ CBACRO is a desktop application designed for recording, saving, and playing back
 ![CBACRO Screenshot](assets/screenshot.png)
 
 ## Demonstration Video
-![CBACRO Demo video](assets/demo.mp4)
+[![CBACRO Demo video](https://github.com/user-attachments/assets/29117adb-b571-45be-a673-e97b5a7c882e)](https://github.com/user-attachments/assets/29117adb-b571-45be-a673-e97b5a7c882e)
 
 ## Author
 **Sebastián Lobato** - 2025
