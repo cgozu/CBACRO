@@ -11,7 +11,7 @@ CBACRO is a desktop application designed for recording, saving, and playing back
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/CBACRO.git
+    git clone https://github.com/cgozu/CBACRO.git
     ```
 2. Install the required dependencies:
     ```bash
